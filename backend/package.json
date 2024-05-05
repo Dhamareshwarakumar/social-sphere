@@ -1,0 +1,11 @@
+{
+  "name": "social-sphere-backend",
+  "version": "1.0.0",
+  "description": "Backend for Social Sphere which is a social media application",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dhamareshwarakumar",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "social-sphere-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Social Sphere a Social Media app",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dhamareshwarakumar",
+  "license": "ISC"
+}
